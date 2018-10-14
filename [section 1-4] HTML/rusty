@@ -1,0 +1,8 @@
+generic containers
+<div> is used to group contents together
+<span> is alos used to group contents together but in place instead of using a new line
+
+attributes:
+<tag key="value"></tag>
+
+<img src="corgi.png">
